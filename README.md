@@ -40,7 +40,7 @@ The victim model is too large to be hosted on GitHub.
 
 Please download it from the link below and place it in the project root:
 
-[(https://drive.google.com/drive/folders/14h5fYaahtkthytM8dH-GQOt4L3KlKOQV?usp=sharing)]
+[https://drive.google.com/drive/folders/1coVbns_LLQjivDk_0MrfrkqHt_EI7AHh?usp=sharing]
 
 After downloading, extract the folder so that the structure is:
 
