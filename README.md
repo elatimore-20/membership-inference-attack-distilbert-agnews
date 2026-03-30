@@ -142,7 +142,9 @@ Still included in the notebook for completeness.
 If the grader runs the notebook in VS Code:
 
 ✔ The loss attack will reproduce the results
+
 ✔ The output file will match the expected format
+
 ✔ No additional paths, flags, or scripts are needed
 
 Shadow-model attack may be run but is not required for grading.
