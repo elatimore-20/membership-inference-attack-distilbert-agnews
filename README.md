@@ -20,11 +20,17 @@ in the required <id> <member> format.
 1. Project Structure
 
 |-- victim_model_distilbert_agnews/      # Provided Hugging Face model + tokenizer
+
 |-- sampled.csv                          # Shadow pool for optional shadow modeling
+
 |-- validation_samples.csv               
+
 |-- validation_results.txt               
+
 |-- Membership_Inference_Attack.ipynb    # All code (shadow + loss attack)
+
 |-- mia_lm_results.txt                   # Final predictions (loss-threshold attack only)
+
 |__ Latimore_Proj_report.pdf                           # Final report
 
 
