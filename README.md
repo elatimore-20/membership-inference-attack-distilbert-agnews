@@ -19,7 +19,7 @@ in the required <id> <member> format.
 
 1. Project Structure
 
-|-- victim_model_distilbert_agnews/      # Provided Hugging Face model + tokenizer
+|-- victim_model_distilbert_agnews/      # Provided Hugging Face model + tokenizer (Download separately - see Model Download section)
 
 |-- sampled.csv                          # Shadow pool for optional shadow modeling
 
@@ -34,6 +34,19 @@ in the required <id> <member> format.
 |__ Latimore_Proj_report.pdf                           # Final report
 
 
+## Model Download (Required)
+
+The victim model is too large to be hosted on GitHub.
+
+Please download it from the link below and place it in the project root:
+
+[(https://drive.google.com/drive/folders/14h5fYaahtkthytM8dH-GQOt4L3KlKOQV?usp=sharing)]
+
+After downloading, extract the folder so that the structure is:
+
+victim_model_distilbert_agnews/
+
+The notebook expects this exact folder name and location.
 ⸻
 
 2. Important Notes for the Grader
@@ -65,6 +78,8 @@ Install dependencies (same environment used in development):
 pip install torch transformers numpy pandas scikit-learn tqdm
 
 Any Python 3.9+ environment is fine.
+
+Before running the notebook, ensure the victim model folder has been downloaded and placed in the root directory as described above.
 
 ⸻
 
