@@ -47,6 +47,7 @@ After downloading, extract the folder so that the structure is:
 victim_model_distilbert_agnews/
 
 The notebook expects this exact folder name and location.
+
 ⸻
 
 2. Important Notes for the Grader
