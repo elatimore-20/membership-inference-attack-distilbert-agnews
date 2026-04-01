@@ -31,6 +31,8 @@ in the required <id> <member> format.
 
 |-- mia_lm_results.txt                   # Final predictions (loss-threshold attack only)
 
+The 6 page paper writeup can be fould in the file attached to google classroom called "EmmanuelLatimore_MIA_DistilBERT.pdf". 
+
 
 
 ## Model Download (Required)
