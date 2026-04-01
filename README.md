@@ -31,7 +31,6 @@ in the required <id> <member> format.
 
 |-- mia_lm_results.txt                   # Final predictions (loss-threshold attack only)
 
-|__ Latimore_Proj_report.pdf                           # Final report
 
 
 ## Model Download (Required)
