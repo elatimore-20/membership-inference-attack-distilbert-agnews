@@ -41,12 +41,12 @@ The victim model is too large to be hosted on GitHub.
 Please download it from the link below and place it in the project root:
 
 [https://drive.google.com/drive/folders/1coVbns_LLQjivDk_0MrfrkqHt_EI7AHh?usp=sharing]
+After downloading, place the extracted folder in the repository root so the path is:
 
-After downloading, extract the folder so that the structure is:
-
-victim_model_distilbert_agnews/
+./victim_model_distilbert_agnews/
 
 The notebook expects this exact folder name and location.
+Run all cells from top to bottom without skipping cells.
 
 ⸻
 
